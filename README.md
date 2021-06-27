@@ -45,8 +45,8 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/naisayuriza/naisabotz2.git
+cd naisabotz2
 npm install
 node main
 ```
@@ -55,8 +55,8 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/naisayuriza/naisabotz2.git
+cd naisabotz2
 npm install
 node main
 ```
@@ -64,8 +64,8 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/naisayuriza/naisabotz2.git
+cd naisabotz2
 npm install
 node main
 ```
