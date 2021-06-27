@@ -1,7 +1,7 @@
 {
-  "name": "XinzBot",
+  "name": "NAISABOTZ",
   "version": "1.0.0",
-  "description": "Ga ada",
+  "description": "JANGAN DIJUAL",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "aqulzz",
+  "author": "RHISS",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
     "@vitalets/google-translate-api": "^7.0.0",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/naisayuriza/naisabotz2.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/naisayuriza/naisabotz2/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/naisayuriza/naisabotz2#readme"
 }
