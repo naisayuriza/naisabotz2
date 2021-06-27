@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6282279915237@s.whatsapp.net",
+    "ownerName": "Lexxy Ganzz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Xinz Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "RiswanJB",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "DANA : 082279915237\nPULSA : 085789004732",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
