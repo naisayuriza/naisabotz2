@@ -71,13 +71,13 @@ node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L2)
-- Change menu on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
-- Change limit on [this section](https://github.com/Xinz-Team/XinzBot/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L3)
-- Change limit game on [this section](https://github.com/Xinz-Team/XinzBot/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L10)
-- Change botName on [this section](https://github.com/Xinz-Team/XinzBot/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L5)
-- Change lolkey on [this section](https://github.com/Xinz-Team/XinzBot/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L7)
-- You can add fiture on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/xinz.js)
+- Change ownerNumber on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L2)
+- Change menu on [this section](https://github.com/naisayuriza/naisabotz2/blob/main/message/help.js)
+- Change limit on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L3)
+- Change limit game on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L10)
+- Change botName on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L5)
+- Change lolkey on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L7)
+- You can add fiture on [this section](https://github.com/naisayuriza/naisabotz2/blob/main/message/xinz.js)
 
 
 ## Installing the FFmpeg for Windows
@@ -112,19 +112,12 @@ webpmux -version
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/aqulzz)
-- [Trakteer](https://trakteer.id/aqulzz)
+- [Saweria](https://saweria.co/rhishna)
+- [Trakteer](https://trakteer.id/naisaalifiayuriza)
 
 # Features
-- Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
+- Cek [disini](https://github.com/naisayuriza/naisabotz2/blob/main/message/help.js)
 
 # Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xinz-Team`](https://github.com/Xinz-Team)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Mamet`](https://github.com/mamet8/)
-* [`SlavyanDesu`](https://github.com/SlavyanDesu)
-* [`VideFrelan`](https://github.com/VideFrelan)
-* [`TobyG74`](https://github.com/TobyG74)
+ 
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
