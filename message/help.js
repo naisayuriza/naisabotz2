@@ -1,6 +1,6 @@
 exports.menu = (prefix, i) => {
     return `┏━━❬ *INFORMATION* ❬━━━━━━━❭
-┣➥• Nama Bot : CyberBotz
+┣➥• Nama Bot : NAISABOTZ2
 ┣➥• Prefix Bot : [ ${prefix} ]
 ┏━━❬ *RULES BOT* ❬━━━━━━━❭
 ┣➥• TELPON/VC [BAN]
