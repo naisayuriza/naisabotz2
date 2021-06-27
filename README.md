@@ -1,25 +1,32 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rhishna
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
 </p>
-<p align="center">
-<a href="#"><img title="XINZ BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zennn08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+<br>
+
+
 
 <p align="center">
-  <a href="https://github.com/Xinz-Team/XinzBot#requirements">Requirements</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#instalasi">Installation</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#features">Features</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#thanks-to">Thanks to</a>
+<a href="#"><img title="RHISHNA" src="https://img.shields.io/badge/RHISHNA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+</p>
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
+<div align="center">
+<details>
+ 
+<NAISA ALIFIA YURIZA BEB KU>
+
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 THENAY.DELUXE
+
+### WARNING
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
 
