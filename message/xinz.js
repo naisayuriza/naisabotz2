@@ -773,11 +773,11 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HUBUNGI OWNER KETIK #owner*
 ──────────────────────────────
-🔰 -----[「 *POWERED BY 𝑳𝒆𝒙𝒙𝒚𝑮𝒂𝒏𝒛𝒛☆* 」]----- 🔰`)
+🔰 -----[「 *POWERED BY RHISHNA* 」]----- 🔰`)
                 break
             case prefix+'simplemenu':
                 textImg(`┏━━❬ *INFORMATION* ❬━━━━━━━❭
-┣➥• Nama Bot : CyberBotz
+┣➥• Nama Bot : NAISABOTZ2
 ┣➥• Prefix Bot : [ # ]
 ┣➥• Nama : ${pushname}
 ┣➥• Nomor : wa.me/${sender.split("@")[0]}
