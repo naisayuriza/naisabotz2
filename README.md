@@ -70,14 +70,6 @@ npm install
 node main
 ```
 
-## Edit file
-- Change ownerNumber on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L2)
-- Change menu on [this section](https://github.com/naisayuriza/naisabotz2/blob/main/message/help.js)
-- Change limit on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L3)
-- Change limit game on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L10)
-- Change botName on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L5)
-- Change lolkey on [this section](https://github.com/naisayuriza/naisabotz2/blob/df8c08093bfd6133745ff69525d704cebbb920f5/config.json#L7)
-- You can add fiture on [this section](https://github.com/naisayuriza/naisabotz2/blob/main/message/xinz.js)
 
 
 ## Installing the FFmpeg for Windows
